@@ -1,5 +1,5 @@
 # flipkart_scraper
-PHP Web scraper for fetching product details from flipkart.
+Web scraper based on PHP for fetching product details from flipkart.
 
 
 ## Prerequisites
