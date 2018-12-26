@@ -25,7 +25,7 @@ if (isset($_GET['q']))                       //Scraping for multi-listed pages
     $search_term = $_GET['q'];
     $search_term = urlencode($search_term);
 echo '<h3>Searched for:<i style="color: blue;">'.urldecode($search_term).'</i></h3>';
-  $cl_price = "_1vC4OE";
+    $cl_price = "_1vC4OE";
     $cl_name = "_2cLu-l";
    flip_scrape($search_term,$cl_name,$cl_price);
 }
